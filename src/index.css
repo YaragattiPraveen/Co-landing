@@ -1,0 +1,239 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    scroll-behavior: smooth;
+  }
+
+  body ::-webkit-scrollbar {
+    height: 8px;
+    width: 8px;
+  }
+
+  body ::-webkit-scrollbar-track {
+    border-radius: 8px;
+    box-shadow: none;
+  }
+
+  body ::-webkit-scrollbar-thumb {
+    background-color: #DBDBDE;
+    border-radius: 8px;
+    box-shadow: none;
+  }
+
+  body ::-webkit-scrollbar-thumb:window-inactive {
+    background: rgba(66, 66, 66, 0.4);
+  }
+
+  label,
+  .select-label {
+    @apply block mb-2;
+  }
+
+  input,
+  textarea {
+    @apply block w-full px-3 py-2 text-sm text-gray-900 rounded focus:outline-none border border-gray-300;
+  }
+
+  select {
+    @apply w-full pl-4 pr-8 py-2 border appearance-none rounded focus:outline-none
+    bg-no-repeat border-gray-300 bg-[url('./assets/img/dropdown-arrow.png')];
+    background-position: 98%;
+    background-size: 20px;
+  }
+
+  button {
+    @apply inline-block cursor-pointer rounded-md px-4 py-1 w-fit disabled:cursor-default disabled:opacity-70;
+  }
+
+  svg {
+    @apply w-6 h-6 fill-current cursor-pointer;
+  }
+}
+
+@layer components {
+  .df,
+  .dfc,
+  .dc {
+    @apply flex gap-2;
+  }
+
+  .df, .dc {
+    @apply items-center;
+  }
+
+  .dfc {
+    @apply flex-col;
+  }
+
+  .dc {
+    @apply justify-center;
+  }
+
+  .scroll-y {
+    @apply flex-1 overflow-y-auto;
+  }
+
+  .no-scroll-bar::-webkit-scrollbar {
+    height: 0;
+    width: 0;
+  }
+
+  .mini-scroll-bar::-webkit-scrollbar {
+    height: 5px;
+    width: 5px;
+  }
+
+
+  /* input number hide arrows - Chrome, Safari, Edge, Opera */
+  .no-number-arrows::-webkit-outer-spin-button,
+  .no-number-arrows::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  /* input number hide arrows - Firefox */
+  .no-number-arrows {
+    -moz-appearance: textfield;
+  }
+
+
+  /* svg */
+  .fill-none {
+    fill: none;
+  }
+
+  .str-rounded {
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  .str-miterlimit-7_3 {
+    stroke-miterlimit: 7.3333;
+  }
+
+  .str-miterlimit-10 {
+    stroke-miterlimit: 10;
+  }
+
+
+  /* Modal */
+  .modal-wrapper {
+    @apply relative z-50;
+  }
+
+  .modal-overlay {
+    @apply fixed inset-0 bg-black bg-opacity-25;
+  }
+    
+  .modal-content {
+    @apply p-4 lg:p-6 rounded-2xl bg-white shadow-xl transition-all;
+  }
+
+  /* DropDown */
+  .DropDownBtn {
+    @apply 
+      w-full focus:outline-0
+      py-1 px-2 text-sm 2xl:text-[15px] rounded 
+    ;
+  }
+
+  .DropDownBtn:not(.active){
+    @apply hover:bg-[#cef3a1] focus:bg-[#cef3a1] active:bg-[#cef3a1];
+  }
+
+  .DropDownBox {
+    @apply 
+      gap-0.5 p-2 min-w-[110px] z-10 focus:outline-0 shadow-spread
+      rounded bg-white border border-white
+    ;
+  }
+
+  .DropDownArrow {
+    @apply bg-inherit w-4 h-4 rotate-45 -z-1 border border-inherit;
+  }
+
+
+  /* Tab */
+  .tab-list-wrapper {
+    @apply border-b border-[hsl(0,0%,77%,.31)];
+  }
+  
+  .tab span {
+    @apply 
+      absolute block -bottom-px left-0 w-full h-1 
+      rounded-sm bg-[#a3dc5d]
+    ;
+    transform: scaleX(0);
+    transform-origin: center;
+    transition: all .3s ease-in-out;
+  }
+  
+  .tab.selected span {
+    transform: scaleX(1);
+  }
+  
+
+  /* Select */
+  .select-btn-box {
+    @apply w-full focus:outline-none rounded border border-gray-300;
+  }
+    
+  .select-options {
+    @apply z-1 max-h-40 py-1 bg-white overflow-auto rounded-md shadow-outer focus:outline-none;
+  }
+
+  .select-input-box {
+    @apply w-full pr-0 border-none;
+  }
+
+  .select-arrow {
+    @apply w-5 h-5 ml-auto -mr-2 pointer-events-none shrink-0;
+  }
+
+  .loader {
+    @apply 
+      w-10 h-10 border-4 animate-spin rounded-full 
+      border-[#cef3a1] border-t-[#a3dc5d]
+    ;
+  }
+
+    
+  /* login */
+  .anime-input-placeholder {
+    @apply absolute top-1/2 left-2 -translate-y-1/2 cursor-text;
+    transition: all .3s ease;
+  }
+
+  .anime-input:valid + .anime-input-placeholder,
+  .anime-input:focus + .anime-input-placeholder {
+    font-size: 14px;
+    color: #333;
+    top: -10px;
+    left: 0;
+  }
+
+  .auth-bg {
+    background-image: url(./assets/svg/auth/bg.png);
+  }
+
+  .home-header {
+    background-image: url(./assets/svg/big.svg);
+  }
+}
+
+
+.animate-scale {
+  animation: scale 200ms ease-in-out;
+}
+
+@keyframes scale {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

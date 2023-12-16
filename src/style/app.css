@@ -1,0 +1,21 @@
+.app-wrapper {
+  display: grid;
+  grid-template-columns: 210px 1fr;
+  grid-template-rows: auto 1fr;
+  grid-template-areas: 
+    'h-sidebar h-nav'
+    'h-sidebar h-main'
+  ;
+}
+
+.app-wrapper > nav {
+  grid-area: h-nav;
+}
+
+.app-wrapper > aside {
+  grid-area: h-sidebar;
+}
+
+.app-wrapper > section {
+  grid-area: h-main;
+}

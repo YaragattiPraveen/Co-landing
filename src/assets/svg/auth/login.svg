@@ -1,0 +1,219 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 2000" width="3000" height="2000">
+	<title>Na_Dec_31-ai</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m2650.53 1600.8h-1020.16v-1025.35h1020.16z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m915.88 971.89l6.45-52.69c6.51-53.16 50.79-94.18 104.33-95.31q1.55-0.03 3.11-0.03h97.7q1.75 0 3.49 0.04c49.24 1.16 83.16 28.99 113.65 76l70.07 115.15-99.75 50.1 12.11 99.29h-285.61l12.82-144.4-42.12 42.54z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m1123.48 821.2q-16.12 40.09-65.16 38.61-49.04-1.48-53.8-33.77 7.88-11.56 118.96-4.84z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="m1222.11 1480.97c5.37 30.27 17.76 58.86 36.18 83.47l147.93 188.39-149.85 113.93-150.76-260.92c-11.41-20.13-18.52-42.4-20.89-65.42l-26.4-257.28-28.18 243.87-54.78 362.57h-183.29l87.53-381.84 69.61-343.3h265.47q31.26 91.17-18.65 169.5z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp5">
+			<path d="m1070.72 654.69c25.79 5.22 40.12 41.98 32.01 82.11l-7.15 35.31c-2.83 14.02-4.4 28.27-4.67 42.58l-0.49 26.07h-57.35l8.25-40.75c-25.8-5.22-40.13-41.98-32.01-82.11 8.12-40.13 35.61-68.43 61.41-63.21z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp6">
+			<path d="m1113.58 698.48h-65-47.19-54.7c0-4.34 3.52-7.85 7.85-7.85h46.89c0.38-27.27 4.79-48.25 56.06-48.25 54.23 0 56.09 25.11 56.09 56.1z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp7">
+			<path d="m1215.73 1063.69l78.8-38.52 13.12 44q21.33 70.51-10.33 95.27-32.26 25.23-318.23-76.36l-3.73-38.73z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #f7f7f7 } 
+		.s1 { fill: #373660 } 
+		.s2 { fill: #4f5285 } 
+		.s3 { fill: #e8e8e8 } 
+		.s4 { fill: #b5b5b5 } 
+		.s5 { fill: #fe6d60 } 
+		.s6 { fill: #e63e36 } 
+		.s7 { fill: #ffffff } 
+		.s8 { fill: #d1d1d1 } 
+		.s9 { fill: #ffc967 } 
+		.s10 { fill: #ffb2a0 } 
+		.s11 { fill: #ffd1c1 } 
+		.s12 { fill: #ffa648 } 
+	</style>
+	<g id="Layer 1">
+		<path id="&lt;Path&gt;" class="s0" d="m64.8 1476.1c-22.6-192.7 42.1-408.6 206.8-511.1 152-94.8 355.5-75.5 525.3-56.1 176.6 20.3 296.8 57.3 444.4-64.3 104.9-86.4 184.4-205.1 292.9-284.8 200.7-147.4 468.6-199.2 709.9-137.3 91.5 23.5 179.8 63 253.2 122.4 92.4 74.7 157.9 177.9 207.5 285.9 166.5 363.3 163 776.9 93.3 1170.4h-2490.3c-91.9-170.9-220.5-332.3-243-525.1z"/>
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s1" d="m1782.1 2001.2h-107.1c-24.6 0-44.6-20-44.6-44.6v-235.2h196.4v235.2c0 24.6-20 44.6-44.7 44.6z"/>
+					<path id="&lt;Path&gt;" class="s1" d="m1987.8 2001.2h-107.1c-24.7 0-44.7-20-44.7-44.6v-235.2h196.4v235.2c0 24.6-20 44.6-44.6 44.6z"/>
+				</g>
+				<path id="&lt;Path&gt;" class="s2" d="m2010.7 1877.9h-356.9c-19.7 0-35.7-16-35.7-35.7v-120.8h428.3v120.8c0 19.7-16 35.7-35.7 35.7z"/>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s1" d="m2400.2 2001.2h-107.1c-24.6 0-44.6-20-44.6-44.6v-235.2h196.4v235.2c0 24.6-20 44.6-44.7 44.6z"/>
+					<path id="&lt;Path&gt;" class="s1" d="m2605.9 2001.2h-107.1c-24.7 0-44.7-20-44.7-44.6v-235.2h196.4v235.2c0 24.6-20 44.6-44.6 44.6z"/>
+				</g>
+				<path id="&lt;Path&gt;" class="s2" d="m2628.8 1877.9h-356.9c-19.7 0-35.7-16-35.7-35.7v-120.8h428.3v120.8c0 19.7-16 35.7-35.7 35.7z"/>
+			</g>
+			<g id="&lt;Group&gt;">
+				<rect id="&lt;Path&gt;" class="s3" x="1564.6" y="507.2" width="1148.9" height="1214.2" rx="44.1"></rect>
+				<path id="&lt;Path&gt;" class="s4" d="m2650.5 1600.8h-1020.1v-1025.3h1020.1z"/>
+				<g id="&lt;Clip Group&gt;" clip-path="url(#cp1)">
+					<path id="&lt;Path&gt;" class="s1" d="m1579.6 773.1h725.1v162.4h395.8v741.8h-1098.4z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<rect id="&lt;Path&gt;" class="s5" x="1630.9" y="1627.2" width="142.4" height="57.4" rx="11.7"></rect>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<rect id="&lt;Path&gt;" class="s6" x="1645.5" y="1639" width="17.9" height="33.6" rx="2.8"></rect>
+								<rect id="&lt;Path&gt;" class="s6" x="1671.2" y="1639" width="17.9" height="33.6" rx="2.8"></rect>
+							</g>
+							<g id="&lt;Group&gt;">
+								<rect id="&lt;Path&gt;" class="s6" x="1715.2" y="1639" width="17.9" height="33.6" rx="2.8"></rect>
+								<rect id="&lt;Path&gt;" class="s6" x="1740.9" y="1639" width="17.9" height="33.6" rx="2.8"></rect>
+							</g>
+						</g>
+					</g>
+					<g id="&lt;Group&gt;">
+						<rect id="&lt;Path&gt;" class="s5" x="2508.1" y="1627.2" width="142.4" height="57.4" rx="11.7"></rect>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<rect id="&lt;Path&gt;" class="s6" x="2522.7" y="1639" width="17.9" height="33.6" rx="2.8"></rect>
+								<rect id="&lt;Path&gt;" class="s6" x="2548.4" y="1639" width="17.9" height="33.6" rx="2.8"></rect>
+							</g>
+							<g id="&lt;Group&gt;">
+								<rect id="&lt;Path&gt;" class="s6" x="2592.4" y="1639" width="17.9" height="33.6" rx="2.8"></rect>
+								<rect id="&lt;Path&gt;" class="s6" x="2618.1" y="1639" width="17.9" height="33.6" rx="2.8"></rect>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s3" d="m2269.8 1600.8h-579.5v-391.9h579.5z"/>
+							<path id="&lt;Path&gt;" class="s7" d="m1916.1 1289.2h-49.1v-80.3h49.1z"/>
+							<path id="&lt;Path&gt;" class="s8" d="m2269.8 1600.8h-184.8v-391.9h184.8z"/>
+							<path id="&lt;Path&gt;" class="s7" d="m2201.9 1289.2h-49v-80.3h49z"/>
+						</g>
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s3" d="m2186.7 1208.9h-462.6v-312.8h462.6z"/>
+							<path id="&lt;Path&gt;" class="s7" d="m1904.3 960.1h-39.1v-64h39.1z"/>
+							<path id="&lt;Path&gt;" class="s8" d="m2186.7 1208.9h-147.5v-312.8h147.5z"/>
+							<path id="&lt;Path&gt;" class="s7" d="m2132.5 960.1h-39.1v-64h39.1z"/>
+						</g>
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s3" d="m2433.3 1380.2h-197.1v-133.3h197.1z"/>
+							<path id="&lt;Path&gt;" class="s7" d="m2313 1274.2h-16.7v-27.3h16.7z"/>
+							<path id="&lt;Path&gt;" class="s8" d="m2433.3 1380.2h-62.8v-133.3h62.8z"/>
+							<path id="&lt;Path&gt;" class="s7" d="m2410.2 1274.2h-16.6v-27.3h16.6z"/>
+						</g>
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s3" d="m2545.6 1600.8h-326.3v-220.6h326.3z"/>
+							<path id="&lt;Path&gt;" class="s7" d="m2346.4 1425.3h-27.6v-45.1h27.6z"/>
+							<path id="&lt;Path&gt;" class="s8" d="m2545.6 1600.8h-104v-220.6h104z"/>
+							<path id="&lt;Path&gt;" class="s7" d="m2507.4 1425.3h-27.6v-45.1h27.6z"/>
+						</g>
+					</g>
+					<path id="&lt;Path&gt;" class="s4" d="m2085 1209.9h-360.9v-2h360.9z"/>
+					<path id="&lt;Path&gt;" class="s4" d="m2370.5 1381.2h-134.3v-2.1h134.3z"/>
+				</g>
+				<path id="&lt;Path&gt;" class="s4" d="m2650.5 1602.3h-1020.1c-0.9 0-1.6-0.7-1.6-1.5 0-0.9 0.7-1.5 1.6-1.5h1020.1c0.9 0 1.6 0.6 1.6 1.5 0 0.8-0.7 1.5-1.6 1.5z"/>
+			</g>
+		</g>
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s5" d="m909.9 582c0 31-5.3 48.4-35.7 93.5-22 32.7-35.1 80.4-40.7 104.3-0.8 3.3-5.5 3.3-6.3 0-5.6-23.9-18.7-71.6-40.7-104.3-30.3-45.1-35.7-62.5-35.7-93.5 0-43.9 35.6-79.5 79.6-79.5 43.9 0 79.5 35.6 79.5 79.5q0 0 0 0z"/>
+				</g>
+				<circle id="&lt;Path&gt;" class="s6" cx="830.4" cy="583.8" r="36.2"/>
+			</g>
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s9" d="m942.8 1889.6l0.6 95h-220.4c0-16.6 10.1-31.6 25.6-37.7l91.1-36 7.4-21.3z"/>
+					<circle id="&lt;Path&gt;" class="s1" cx="893.7" cy="1942.3" r="18.3"/>
+					<path id="&lt;Path&gt;" class="s1" d="m828.7 1915.2l7.4 15c1.7 3.4 0.2 7.4-3.2 8.8-3.1 1.4-6.7 0.1-8.3-2.8l-8.5-16z"/>
+					<path id="&lt;Path&gt;" class="s1" d="m806.5 1924l7.4 15.1c1.6 3.3 0.2 7.3-3.2 8.8-3.1 1.3-6.7 0.1-8.3-2.9l-8.6-15.9z"/>
+					<path id="&lt;Path&gt;" class="s1" d="m781.3 1934l7.5 15c1.6 3.3 0.2 7.3-3.2 8.8-3.1 1.4-6.7 0.1-8.3-2.9l-8.6-15.9z"/>
+					<path id="&lt;Path&gt;" class="s1" d="m943.4 1984.6v16.4h-220.4v-16.4z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s9" d="m1367.6 1782.2l62.3 72-166.8 144.1c-10.9-12.6-13-30.5-5.3-45.3l45.4-86.8-12.5-25.5z"/>
+					<path id="&lt;Path&gt;" class="s1" d="m1352.7 1840.8c7.6-6.6 19.2-5.7 25.8 1.9 6.6 7.7 5.8 19.3-1.9 25.9-7.6 6.6-19.2 5.7-25.8-1.9-6.7-7.7-5.8-19.3 1.9-25.9z"/>
+					<path id="&lt;Path&gt;" class="s1" d="m1297.7 1876.7l15.5 6.5c3.4 1.4 4.9 5.4 3.3 8.7-1.5 3.1-5 4.5-8.2 3.3l-16.9-6.5z"/>
+					<path id="&lt;Path&gt;" class="s1" d="m1286.7 1897.9l15.4 6.5c3.4 1.4 4.9 5.4 3.3 8.8-1.4 3-5 4.4-8.1 3.2l-16.9-6.5z"/>
+					<path id="&lt;Path&gt;" class="s1" d="m1274.1 1921.8l15.5 6.5c3.4 1.5 4.9 5.5 3.3 8.8-1.4 3-5 4.4-8.1 3.2l-17-6.4z"/>
+					<path id="&lt;Path&gt;" class="s1" d="m1429.9 1854.2l10.7 12.4-156.1 134.8c-5.9 5.1-14.9 4.5-20-1.5l-1.4-1.6z"/>
+				</g>
+				<path id="&lt;Path&gt;" class="s10" d="m951.5 1059.8l-6.1 59.9-178.8-54.4z"/>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s9" d="m915.9 971.9l6.4-52.7c6.5-53.2 50.8-94.2 104.4-95.3q1.5 0 3.1 0h97.7q1.7 0 3.5 0c49.2 1.2 83.1 29 113.6 76l70.1 115.1-99.8 50.2 12.1 99.2h-285.6l12.8-144.4-42.1 42.6z"/>
+					<g id="&lt;Clip Group&gt;" clip-path="url(#cp2)">
+						<path id="&lt;Path&gt;" class="s11" d="m1123.5 821.2q-16.1 40.1-65.2 38.6-49-1.5-53.8-33.8 7.9-11.5 119-4.8z"/>
+						<g id="&lt;Clip Group&gt;" clip-path="url(#cp3)">
+							<path id="&lt;Path&gt;" class="s10" d="m1012.5 822.7q5.2 32.4 52.7 38.5-42.8 11.1-66.2-36.1z"/>
+						</g>
+						<path id="&lt;Path&gt;" class="s12" d="m1025.1 1168.5l10.2-22.3c14.8-32.1 46.9-52.7 82.3-52.7h53.4l-20.1-134.6 74.1 100.2 22 113.3z"/>
+					</g>
+					<path id="&lt;Path&gt;" class="s1" d="m1222.1 1481c5.4 30.2 17.8 58.8 36.2 83.4l147.9 188.4-149.8 114-150.8-261c-11.4-20.1-18.5-42.4-20.9-65.4l-26.4-257.3-28.2 243.9-54.7 362.6h-183.3l87.5-381.9 69.6-343.3h265.5q31.2 91.2-18.7 169.5z"/>
+					<g id="&lt;Clip Group&gt;" clip-path="url(#cp4)">
+						<path id="&lt;Path&gt;" class="s2" d="m917.1 1520.9c-5.8 30.4-25.4 52.3-43.9 48.8-18.5-3.5-28.8-31-23.1-61.4 5.7-30.5 25.4-52.3 43.9-48.9 18.5 3.5 28.8 31 23.1 61.5z"/>
+						<path id="&lt;Path&gt;" class="s2" d="m1156.2 1533c8.6 29.6 8.9 51-7.6 55.8-16.5 4.9-37.8-6.4-46.5-36-8.7-29.6-1.4-66.3 15.1-71.2 16.5-4.8 30.3 21.8 39 51.4z"/>
+					</g>
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s11" d="m1070.7 654.7c25.8 5.2 40.1 42 32 82.1l-7.1 35.3c-2.9 14-4.4 28.3-4.7 42.6l-0.5 26.1h-57.3l8.2-40.8c-25.8-5.2-40.1-42-32-82.1 8.1-40.1 35.6-68.4 61.4-63.2z"/>
+							<g id="&lt;Clip Group&gt;" clip-path="url(#cp5)">
+								<path id="&lt;Path&gt;" class="s10" d="m1066.6 696.8c0 0.6 4.3 17.2-13.5 23.8q-17.8 6.6-49.2 7.2 0.6-30.8 8-34.3 7.4-3.5 54.7 3.3z"/>
+							</g>
+							<path id="&lt;Path&gt;" class="s10" d="m1041.3 800q19.2 1 35.9-21.4-10.8 33.8-37.7 30.6z"/>
+						</g>
+						<path id="&lt;Path&gt;" class="s9" d="m1113.6 698.5h-65-47.2-54.7c0-4.4 3.5-7.9 7.8-7.9h46.9c0.4-27.2 4.8-48.2 56.1-48.2 54.2 0 56.1 25.1 56.1 56.1z"/>
+						<g id="&lt;Clip Group&gt;" clip-path="url(#cp6)">
+							<path id="&lt;Path&gt;" class="s12" d="m1027 642.4q-7.3 29 23.6 40.6 30.9 11.5 69.6 8.3v11h-185.4v-12l60-5 11.8-36.5z"/>
+						</g>
+						<path id="&lt;Path&gt;" class="s2" d="m1113.6 698.5q0.6 2.2 0 20-0.6 16.6-19 58.6l-4.7-30.8c9.9-0.5 11.7-26 2.6-25.7q-9.1 0.2-7.8 11.7l-9.1-5c-6.4-3.4-10.8-9.6-11.9-16.8l-1.9-12z"/>
+						<path id="&lt;Path&gt;" class="s2" d="m1016 698.5q-11.8 28.9-7.8 56.7l-8.2-22.8c-3.4-9.3-3.9-19.5-1.4-29.1l1.2-4.8z"/>
+					</g>
+					<g id="&lt;Group&gt;">
+						<path id="&lt;Path&gt;" class="s2" d="m1068.8 1065.3h-260.4v-248.7h260.4z"/>
+						<path id="&lt;Path&gt;" class="s1" d="m669.1 816.6h139.3v248.7h-139.3z"/>
+						<path id="&lt;Path&gt;" class="s7" d="m750.8 863.3h-30.8v-46.7h30.8z"/>
+						<path id="&lt;Path&gt;" class="s7" d="m958.9 863.3h-39v-46.7h39z"/>
+					</g>
+					<g id="&lt;Group&gt;">
+						<path id="&lt;Path&gt;" class="s11" d="m1215.7 1063.7l78.8-38.5 13.1 44q21.4 70.5-10.3 95.2-32.2 25.3-318.2-76.3l-3.7-38.7z"/>
+						<g id="&lt;Clip Group&gt;" clip-path="url(#cp7)">
+							<path id="&lt;Path&gt;" class="s10" d="m1290.3 1000.2l24.4 70.9-99-7.4z"/>
+						</g>
+						<path id="&lt;Path&gt;" class="s11" d="m1001.4 1093.2q-58.6 3-85.7-11.4c-10.6-5.7-20.5-58.4-18.4-62.9 2.1-4.5 67.1 29.4 68.9 16.4 1-7.8-5.7-10.3-3-17.1q2.8-6.7 31.2 33.7z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="s9" d="m280.4 2001.2q-144.8-178.3-110.6-339.6 104.2 163.4 110.6 236-46.1-227.1 58.8-378.7 6 297.2 8 369.2 60.5-418.8 98.8-462.8 6.1 376.7-12.1 462.8 62.5-178.1 121-256.7-34.3 245-80.6 307.4 84.6-105.8 127-140.1-80.7 183.3-147.2 202.5z"/>
+			<path id="&lt;Path&gt;" class="s12" d="m183.4 1713.3q45.6 137.9 98.8 220.7-87.7-198-98.8-220.7z"/>
+			<path id="&lt;Path&gt;" class="s12" d="m316.3 1601.8q-16.3 214.3 6.7 313.4z"/>
+			<path id="&lt;Path&gt;" class="s12" d="m421.8 1561.2l-32.7 319.4q37.3-200.2 32.7-319.4z"/>
+			<path id="&lt;Path&gt;" class="s12" d="m516.6 1737.9l-56.3 165q47.1-85.9 56.3-165z"/>
+			<path id="&lt;Path&gt;" class="s12" d="m556.9 1861.5l-68.5 91.2q47.1-49.6 68.5-91.2z"/>
+		</g>
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="s3" d="m1451.9 517v108.4c0 10.6-8.7 19.2-19.3 19.2h-171.7l-64 55.1c-6.1 5.2-15.2-0.7-13-8.3l13.7-46.8h-12.5c-10.7 0-19.3-8.6-19.3-19.2v-108.4c0-10.6 8.6-19.3 19.3-19.3h247.5c10.6 0 19.3 8.7 19.3 19.3z"/>
+				<g id="&lt;Group&gt;">
+					<rect id="&lt;Path&gt;" class="s7" x="1198.2" y="523.1" width="228.3" height="20.9" rx="1.4"></rect>
+					<rect id="&lt;Path&gt;" class="s7" x="1198.2" y="558.7" width="228.3" height="20.9" rx="1.4"></rect>
+					<rect id="&lt;Path&gt;" class="s7" x="1198.2" y="594.3" width="179" height="20.9" rx="1.3"></rect>
+				</g>
+			</g>
+			<g id="&lt;Group&gt;">
+				<circle id="&lt;Path&gt;" class="s5" cx="1177.6" cy="501.3" r="35.8"/>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Compound Path&gt;" class="s7" d="m1167.9 495.4v-4.2q2.9-0.1 4.1-0.4 1.8-0.4 3-1.6 0.8-0.9 1.2-2.3 0.2-0.8 0.2-1.2h5.1v31.3h-6.3v-21.6z"/>
+				</g>
+			</g>
+		</g>
+		<path id="&lt;Path&gt;" class="s1" d="m2921.9 2004h-2738.5v-5.5h2738.5z"/>
+	</g>
+</svg>
