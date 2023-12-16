@@ -1,22 +1,22 @@
-import { useEffect, useState } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+import { useState } from 'react';
+import { useSelector } from 'react-redux';
 
-import { getUsersList } from '../../action-reducers/admin/adminAction';
+// import { getUsersList } from '../../action-reducers/admin/adminAction';
 
 import { ReactComponent as Dot } from '../../assets/svg/common/dot.svg';
 
 import { DropDownWrapper } from '../UIComp/DropDown';
 import AddMember from './Modals/AddMember';
-import Loader from '../Common/Loader';
+// import Loader from '../Common/Loader';
 
 const list1 = ["Delete", "Activate"]
 const list2 = ["Delete", "Inactivate"]
 
 function User() {
   const users = useSelector(({ admin }) => admin)
-  const [loading, setLoading] = useState("")
+  // const [loading, setLoading] = useState("")
   const [open, setOpen] = useState(false)
-  const dispatch = useDispatch()
+  // const dispatch = useDispatch()
 
   // useEffect(() => {
   //   setLoading(true)

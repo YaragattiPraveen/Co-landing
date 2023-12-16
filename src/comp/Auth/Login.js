@@ -9,7 +9,7 @@ import summunatiLogo from "../../assets/svg/Samunnati_Logo.svg";
 import AnimeInputField from "../Common/AnimeInputField";
 
 function Login() {
-  const [loading, setLoading] = useState("");
+  // const [loading, setLoading] = useState("");
   const [details, setDetails] = useState({
     email: "",
     password: "",
@@ -104,7 +104,7 @@ function Login() {
           <button
             className="my-6 px-8 bg-[#2c8c79] text-white hover:bg-[#1d3a34] transition-colors mx-auto rounded-full"
             onClick={onSubmit}
-            disabled={loading}
+            // disabled={loading}
           >
             Login
           </button>
